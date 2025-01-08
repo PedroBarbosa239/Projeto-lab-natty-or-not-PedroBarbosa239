@@ -7,7 +7,7 @@ Runway - geração do video
  Resolvi escolher o Runway pela qualidade da imagem e de sua geração, tendo em vista que a possibilidade de um video de 10s, foi escolhido uma imagem
  de uma pessoa programando, e como input de texto foi escolhido que tomaria uma xicara de café<br>
  Imagem:
-![Imagem figurativa](dia-do-programador-1.jpg)
+![Imagem figurativa](dia-do-programador-1.jpg)<br>
  Texto:
  "Crie um video onde a pessoa que está sentada nesta cadeira, pegue sua xícara de café ao lado e beba ela".
 
